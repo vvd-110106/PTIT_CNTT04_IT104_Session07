@@ -97,7 +97,6 @@ class User {
     }
 }
 
-// Test
 let user1 = new User(1);
 let user2 = new User(2);
 
